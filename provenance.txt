@@ -1,0 +1,39 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: treehorn-spring-rest-microservice
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: treehorn-spring-rest-microservice
+Branch: master
+Path (within repo): 
+sha: a3f23226ba60afc3ef6626d2a8f72a87d4d4261f
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.jackietreehornpublishing'
+team-id='T1KHULA3E'
+name='russrest1'
+template='treehorn-spring-rest-microservice'
+user-id='U1KGQ9YGK'
+group_id='jackietreehornpublishing'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='russrest1'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='06 07 2016 '
+configuration_class_name='Russrest1Configuration'
+package_path='com/jackietreehornpublishing'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+application_name='Russrest1'
+containerless_web_integration_test_name='Russrest1OutOfContainerIntegrationTests'
+application_class_name='Russrest1Application'
+startup_test_name='Russrest1ApplicationTests'
+web_integration_test_name='Russrest1WebIntegrationTests'
+creation_date='Wed Jul 06 2016 11:35:03 GMT+0000 (UTC)'
